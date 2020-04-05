@@ -5,6 +5,7 @@ list3=[200,["I","we","You"],"are","pronouns",3]
 list4=["list",10,{"sets",5,10},{"key1":"value1","key2":"value2"}]
 list4[0]="list4"
 list2[3]=5000
+# Assigned lists are:
 print("List1:",list1,"\n")
 print("list2:",list2,"\n")
 print("List3:",list3,"\n")
