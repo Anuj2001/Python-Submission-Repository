@@ -1,3 +1,3 @@
 # Python Repository
-This Repository is mainly made for submission of assignments.
-1.MyCaptain2.0
+# 1.MyCaptain2.0
+This Repository is mainly made for submission of assignments.                                                                  
